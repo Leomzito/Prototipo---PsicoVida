@@ -1,0 +1,11 @@
+body {
+            font-family: 'Inter', sans-serif;
+        }
+        .glass-card {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+        }
+        .hero-bg {
+            background: linear-gradient(135deg, #f4f7f5 0%, #e3ebe6 50%, #e0f2fe 100%);
+        }
